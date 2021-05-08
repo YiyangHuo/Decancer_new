@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DiagnoseViewController.upload():DiagnoseViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in CharViewController.init():ChatViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "message[1][&quot;message&quot;].string">
+            </PersistentString>
+            <PersistentString
+               value = "data[0]">
+            </PersistentString>
+            <PersistentString
+               value = "message[&quot;Name&quot;].string">
+            </PersistentString>
+            <PersistentString
+               value = "message[1].rawDictionary">
+            </PersistentString>
+            <PersistentString
+               value = "swiftyJson[0][&quot;message&quot;].string">
+            </PersistentString>
+            <PersistentString
+               value = "swiftyJson.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #3 in ChatView.body.getter:ChatView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "chatviewcontroller.messages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in closure #1 in DiagnoseViewController.upload():DiagnoseViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response">
+            </PersistentString>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #2 in RecordView.body.getter:Recording.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.recordontroller.test_records">
+            </PersistentString>
+            <PersistentString
+               value = "self.recordontroller.the_records">
+            </PersistentString>
+            <PersistentString
+               value = "recordontroller.the_records">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in closure #1 in RecordViewController.getrecords(completion:):RecordingViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.the_records">
+            </PersistentString>
+            <PersistentString
+               value = "JSON(data)">
+            </PersistentString>
+            <PersistentString
+               value = "self.test_records">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #3 in closure #1 in closure #1 in closure #1 in ChatView.body.getter:ChatView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "chatviewcontroller.messages.last?.id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HttpRequest.sendfile(token:body:api:callback:):Utility.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HttpRequest.sendhttp(token:body:api:callback:):Utility.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in RecordView.body.getter:Recording.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "recordontroller.the_records">
+            </PersistentString>
+            <PersistentString
+               value = "self.recordontroller.test_records">
+            </PersistentString>
+            <PersistentString
+               value = "self.recordontroller.the_records">
+            </PersistentString>
+            <PersistentString
+               value = "recordontroller.test_records">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
